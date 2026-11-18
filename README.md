@@ -100,19 +100,6 @@ I'm an IT Support and Network Technician passionate about IT infrastructure, net
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=msesoulaimanee&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=msesoulaimanee&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msesoulaimanee&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
